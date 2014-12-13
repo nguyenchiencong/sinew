@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
 
   s.rubyforge_project = "sinew"
 
-  s.add_runtime_dependency "activesupport", "~> 3.0"
+  s.add_runtime_dependency "activesupport", "~> 4.0"
   s.add_runtime_dependency "awesome_print"
   s.add_runtime_dependency "htmlentities"
   s.add_runtime_dependency "nokogiri"
